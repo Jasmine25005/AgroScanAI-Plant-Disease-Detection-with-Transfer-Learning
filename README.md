@@ -1,5 +1,5 @@
 # 🌿 LeafVision: End-to-End Plant Disease Classification 🔬
-> You can find the Kaggle version of this notebook [here](https://www.kaggle.com/code/your-username/leafvision, don't forget to upvote! 🚀
+
 A deep learning-based computer vision project to classify plant diseases using images of leaves — built with **CNN**, **VGG16**, and **ResNet50**.
 
 ---
