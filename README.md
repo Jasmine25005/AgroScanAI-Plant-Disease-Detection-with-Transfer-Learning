@@ -45,7 +45,7 @@ A deep learning-based computer vision project to classify plant diseases using i
 
 ## 🔍 Sample Prediction Output
 
-![Sample Predictions](assets/sample_predictions.png)
+![Sample Predictions](sample_predictions.png)
 
 ---
 
@@ -60,4 +60,27 @@ A deep learning-based computer vision project to classify plant diseases using i
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 📦 Tech Stack
+
+- Python (TensorFlow, Keras, OpenCV, Matplotlib, Sklearn)
+- Jupyter Notebooks
+- Deep Learning (CNN, Transfer Learning)
+- ImageDataGenerator for augmentation
+
+---
+
+## 📌 Future Improvements
+
+- Add model monitoring & logging via Weights & Biases or MLflow
+- Use class balancing / focal loss for better minority class performance
+- Convert model to TensorFlow Lite for low-resource IoT deployment
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by Jasmine
+
