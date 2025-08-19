@@ -11,7 +11,7 @@ A deep learning-based computer vision project to classify plant diseases using i
   - 🌱 Healthy
   - 🍃 Powdery Mildew
   - 🍂 Rust
-
+![Class Balances](DataWeights.png)
 ---
 
 ## 🧠 Models Used
