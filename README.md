@@ -57,10 +57,6 @@ A deep learning-based computer vision project to classify plant diseases using i
 
 - Lowering the LR from `0.001` to `0.0001` fixed the issue!
 - Proper preprocessing based on the model is a **must** (CNN ≠ ResNet ≠ VGG)
-
----
-
-
 ---
 
 ## 📦 Tech Stack
