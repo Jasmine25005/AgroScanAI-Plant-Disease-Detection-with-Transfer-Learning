@@ -1,6 +1,6 @@
 # 🌿 AgroScanAI: End-to-End Plant Disease Classification 🔬
-
 A deep learning-based computer vision project to classify plant diseases using images of leaves — built with **CNN**, **VGG16**, and **ResNet50**.
+## You can find the full code with outputs here: [Code](https://www.kaggle.com/code/jasminemohamed2545/a-plant-disease-classifier-vgg-resnet50-97-acc)
 ---
 
 ## 📸 Dataset
