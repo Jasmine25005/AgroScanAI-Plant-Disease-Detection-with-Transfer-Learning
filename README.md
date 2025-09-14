@@ -51,7 +51,7 @@ A deep learning-based computer vision project to classify plant diseases using i
 
 ## 💡 Lessons Learned
 
-🧠 **"Accuracy stuck at 33%?"** It wasn't the model, the data, or the augmentation...
+🧠 **"Accuracy stuck at 33%"** It wasn't the model, the data, or the augmentation...
 
 ✳ It was the **learning rate**!
 
